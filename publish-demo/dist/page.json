@@ -1,0 +1,7 @@
+{
+  "id": "demo-home",
+  "title": "Publish Demo Page",
+  "headline": "Hello from the publish lane prototype",
+  "body": "This page was rendered locally from publish-demo/source/page.json and deployed as static assets.",
+  "updated_at": "2026-05-24T00:00:00Z"
+}

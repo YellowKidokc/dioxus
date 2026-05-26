@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-05-24T22:40:41.828175+00:00",
+  "source_file": "publish-demo/source/page.json",
+  "output_files": [
+    "publish-demo/dist/index.html",
+    "publish-demo/dist/page.json"
+  ],
+  "page_id": "demo-home"
+}
