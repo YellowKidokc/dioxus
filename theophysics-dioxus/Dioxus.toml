@@ -1,0 +1,11 @@
+[application]
+name = "faiththru"
+default_platform = "web"
+out_dir = "dist"
+
+[web.app]
+title = "Faith Through Physics"
+base_path = "/"
+
+[web.resource]
+style = ["assets/tailwind.css"]
